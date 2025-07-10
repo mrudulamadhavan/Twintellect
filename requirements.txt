@@ -1,0 +1,8 @@
+streamlit
+tensorflow
+tensorflow-addons
+transformers
+datasets
+seqeval
+evaluate
+numpy
