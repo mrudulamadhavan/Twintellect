@@ -2,7 +2,8 @@ streamlit
 tensorflow
 tensorflow-addons
 transformers
-datasets
-seqeval
-evaluate
+spacy
+scikit-learn
+pandas
 numpy
+requests
